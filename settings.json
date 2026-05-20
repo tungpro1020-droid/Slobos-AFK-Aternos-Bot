@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Heavenzdo",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
@@ -31,8 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "ALO ALO",
-        "co ai on ko ta",
+        "I'm a regular player",
+        "I'm here",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
